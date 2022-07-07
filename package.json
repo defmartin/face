@@ -11,7 +11,7 @@
     "core-js": "^2.6.10",
     "decimal.js": "^10.2.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "radixdlt": "^2.0.0-beta.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
